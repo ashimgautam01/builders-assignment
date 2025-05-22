@@ -1,7 +1,7 @@
 import React from "react";
 
 const developer = {
-  name: "Your Name",
+  name: "Ashim Gautam",
   role: "Intern",
   image: "/developer.png",
   description: `This project is part of my internship at Builders Academy. It demonstrates a modern Solana wallet dashboard built with Next.js, React, and Tailwind CSS. 
