@@ -11,7 +11,7 @@ import {
 import { clusterApiUrl } from "@solana/web3.js";
 import { useMemo } from "react";
 import { Coins } from "lucide-react";
-import WalletInfo from "../(components)/Home";
+import WalletInfo from "../(components)/WalletInfo";
 import AnimatedDiv from "../(components)/AnimatedDiv";
 const NETWORK = "devnet";
 
